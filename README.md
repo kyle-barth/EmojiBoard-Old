@@ -1,2 +1,2 @@
 # EmojiBoard
-An iOS and Windows app that converts your entire keyboard into Emoji. Why? Why not!
+A Windows app that converts your entire keyboard to Emoji - outputting the most similar looking Emoji for each letter. It's a millenials dream.
